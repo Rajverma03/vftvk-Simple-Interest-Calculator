@@ -7,7 +7,7 @@ function compute()
     var year = new Date().getFullYear()+parseInt(y);
     if(p<=0){
         alert("Enter a postive number");
-        p.focus();
+        document.getElementById("principal").focus();
         return false;
         }
     var result = document.getElementById("result");

@@ -2,7 +2,6 @@ body {
     background-color:black;
     font-family:arial;
     color:white;
-    align : center;
 }
 h1{
     color:grey;
@@ -16,6 +15,5 @@ h1{
     padding:20px;
     text-align : center;
     color:black;
-    align:center;
 
 }
